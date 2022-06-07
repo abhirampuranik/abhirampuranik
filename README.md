@@ -33,8 +33,13 @@ My name is Abhiram Puranik and I'm a Computer Science undergrad who is passionat
 
 
 ## &#x1f4c8; GitHub Stats
- 
-![languages](https://github-readme-stats.vercel.app/api/top-langs?username=abhirampuranik&show_icons=true&locale=en&layout=compact&theme=radical) ![grade](https://github-readme-stats.vercel.app/api?username=abhirampuranik&count_private=true&theme=tokyonight)
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhirampuranik&show_icons=true&locale=en&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhirampuranik&count_private=true&theme=tokyonight" /> 
+</p>
+
+<!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs?username=abhirampuranik&show_icons=true&locale=en&layout=compact&theme=radical) ![grade](https://github-readme-stats.vercel.app/api?username=abhirampuranik&count_private=true&theme=tokyonight) -->
 
 <!-- ![streaks](https://github-readme-streak-stats.herokuapp.com/?user=abhirampuranik&theme=radical) -->
 <p align="center">
