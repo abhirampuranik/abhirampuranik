@@ -33,15 +33,9 @@ My name is Abhiram Puranik and I'm a Computer Science undergrad who is passionat
 
 
 ## &#x1f4c8; GitHub Stats
-
-<!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhirampuranik&show_icons=true&locale=en&layout=compact&theme=radical" alt="abhirampuranik" /></p>
-
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhirampuranik&theme=radical" alt="abhirampuranik" /></p> -->
  
 ![languages](https://github-readme-stats.vercel.app/api/top-langs?username=abhirampuranik&show_icons=true&locale=en&layout=compact&theme=radical)
 ![streaks](https://github-readme-streak-stats.herokuapp.com/?user=abhirampuranik&theme=radical)
-<br/>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhirampuranik&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhirampuranik)
