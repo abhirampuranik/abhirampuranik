@@ -41,6 +41,7 @@ My name is Abhiram Puranik and I'm a Computer Science undergrad who is passionat
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhirampuranik&count_private=true&theme=tokyonight" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirampuranik&theme=radical" alt="streaks"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=abhirampuranik&bg_color=000000&color=27d9af&line=d12c8a&point=ffffff&area=true&hide_border=true" alt="graph" />
 </p>
 
 <!-- 
