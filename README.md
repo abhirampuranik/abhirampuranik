@@ -34,22 +34,22 @@ My name is Abhiram Puranik and I'm a Computer Science undergrad who is passionat
 
 ## &#x1f4c8; GitHub Stats
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhirampuranik&show_icons=true&locale=en&layout=compact&theme=radical" width="100" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abhirampuranik&count_private=true&theme=tokyonight" /> 
-</p>
 
 <!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs?username=abhirampuranik&show_icons=true&locale=en&layout=compact&theme=radical) ![grade](https://github-readme-stats.vercel.app/api?username=abhirampuranik&count_private=true&theme=tokyonight) -->
 
 <!-- ![streaks](https://github-readme-streak-stats.herokuapp.com/?user=abhirampuranik&theme=radical) -->
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhirampuranik&count_private=true&theme=tokyonight" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirampuranik&theme=radical" alt="streaks"/>
 </p>
 
 <!-- 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhirampuranik&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)   -->
+<p align="right">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=abhirampuranik" />
+</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhirampuranik)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhirampuranik) -->
 
 ##  🤝🏻 &nbsp;Connect with Me
 
